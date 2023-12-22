@@ -1,2 +1,2 @@
-# this is a test
-# confused
+# This a test image inhancer (still in progress)
+
