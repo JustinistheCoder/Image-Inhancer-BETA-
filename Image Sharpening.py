@@ -1,5 +1,5 @@
 import cv2
-image = cv2.imread("test image.jpg") # input your image in text brackets
+image = cv2.imread("Imagesharpen.jpg") # input your image in text brackets
 if image is None:
     print("Image did not load properly")
     exit()
